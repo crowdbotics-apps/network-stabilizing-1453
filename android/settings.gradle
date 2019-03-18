@@ -1,0 +1,3 @@
+rootProject.name = 'network_stabilizing_1453'
+
+include ':app'
